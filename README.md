@@ -3,6 +3,10 @@
 # Running the code description
 This is a brief explanation of how to run the code for the Phase-1-Independent-project that I have writen.
 
+# Click the link below to access the site
+
+https://phase-1-independent-project-five.vercel.app/
+
 # Lets get started Started
 In order for you to use the content on this repository one is required to have the following requriments:
 
